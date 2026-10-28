@@ -1,8 +1,165 @@
 {
   "course": {
-    "title": "",
-    "subtitle": "",
+    "title": "Tecnología y Publicación en Internet",
+    "subtitle": "TPI",
     "language": "es"
   },
-  "contests": []
+  "contests": [
+    {
+      "file": "tema-1.bin",
+      "id": "tema-1",
+      "title": "Tema 1",
+      "section": "",
+      "name": "Tema 1",
+      "description": "Posibles preguntas del tema 1",
+      "questions": 10,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": true,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    },
+    {
+      "file": "tema-2.bin",
+      "id": "tema-2",
+      "title": "Tema 2",
+      "section": "",
+      "name": "Tema 2",
+      "description": "Posibles preguntas tema 2",
+      "questions": 10,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": true,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    },
+    {
+      "file": "tema-3.bin",
+      "id": "tema-3",
+      "title": "Tema 3",
+      "section": "",
+      "name": "Tema 3",
+      "description": "Posibles preguntas del Tema 3",
+      "questions": 10,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": true,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    },
+    {
+      "file": "tema-4.bin",
+      "id": "tema-4",
+      "title": "Tema 4",
+      "section": "",
+      "name": "Tema 4",
+      "description": "Posibles preguntas Tema 4",
+      "questions": 10,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": true,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    },
+    {
+      "file": "tema-5.bin",
+      "id": "tema-5",
+      "title": "Tema 5",
+      "section": "",
+      "name": "Tema 5",
+      "description": "Posibles preguntas del Tema 5",
+      "questions": 10,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": true,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    },
+    {
+      "file": "tema-6.bin",
+      "id": "tema-6",
+      "title": "Tema 6",
+      "section": "",
+      "name": "Tema 6",
+      "description": "Posibles preguntas del Tema 6",
+      "questions": 11,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": true,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    }
+  ]
 }
